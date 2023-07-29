@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Vignesh-Personal-Portfolio/static/css/main.09337ff1.css",
+    "main.js": "/Vignesh-Personal-Portfolio/static/js/main.66321d43.js",
+    "static/media/weatherApp.png": "/Vignesh-Personal-Portfolio/static/media/weatherApp.c1580ad5cdbdd74e3677.png",
+    "static/media/newYearCountDown.png": "/Vignesh-Personal-Portfolio/static/media/newYearCountDown.f12fa1bea6d825004bb0.png",
+    "static/media/rahmanPortfolio.png": "/Vignesh-Personal-Portfolio/static/media/rahmanPortfolio.f3a899023fd41e55fa97.png",
+    "static/media/numberGuess.png": "/Vignesh-Personal-Portfolio/static/media/numberGuess.714ce93ac1b371ffd183.png",
+    "static/media/quizz.png": "/Vignesh-Personal-Portfolio/static/media/quizz.126ec43af062048e45db.png",
+    "static/media/expenseHandler.png": "/Vignesh-Personal-Portfolio/static/media/expenseHandler.78c057d06dd265487d7d.png",
+    "static/media/ageCalculator.png": "/Vignesh-Personal-Portfolio/static/media/ageCalculator.230cec49877e61ca64e0.png",
+    "static/media/slick.svg": "/Vignesh-Personal-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Vignesh-Personal-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Vignesh-Personal-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Vignesh-Personal-Portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Vignesh-Personal-Portfolio/index.html",
+    "main.09337ff1.css.map": "/Vignesh-Personal-Portfolio/static/css/main.09337ff1.css.map",
+    "main.66321d43.js.map": "/Vignesh-Personal-Portfolio/static/js/main.66321d43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09337ff1.css",
+    "static/js/main.66321d43.js"
+  ]
+}
