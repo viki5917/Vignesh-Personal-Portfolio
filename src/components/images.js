@@ -7,4 +7,5 @@ export const IMAGES = {
   quizz: require("../images/quizz.png"),
   rahmanPortfolio: require("../images/rahmanPortfolio.png"),
   contactmanagementapp: require("../images/contact-management-app.png"),
+  librarymanagement: require("../images/library.png"),
 };
