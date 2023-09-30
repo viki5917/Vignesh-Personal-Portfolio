@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vignesh-Personal-Portfolio/static/css/main.09337ff1.css",
-    "main.js": "/Vignesh-Personal-Portfolio/static/js/main.08669703.js",
+    "main.js": "/Vignesh-Personal-Portfolio/static/js/main.cb97cb60.js",
     "static/media/weatherApp.png": "/Vignesh-Personal-Portfolio/static/media/weatherApp.c1580ad5cdbdd74e3677.png",
     "static/media/newYearCountDown.png": "/Vignesh-Personal-Portfolio/static/media/newYearCountDown.f12fa1bea6d825004bb0.png",
     "static/media/library.png": "/Vignesh-Personal-Portfolio/static/media/library.26fe2ca0a0d67c0d3859.png",
@@ -17,10 +17,10 @@
     "static/media/slick.woff": "/Vignesh-Personal-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Vignesh-Personal-Portfolio/index.html",
     "main.09337ff1.css.map": "/Vignesh-Personal-Portfolio/static/css/main.09337ff1.css.map",
-    "main.08669703.js.map": "/Vignesh-Personal-Portfolio/static/js/main.08669703.js.map"
+    "main.cb97cb60.js.map": "/Vignesh-Personal-Portfolio/static/js/main.cb97cb60.js.map"
   },
   "entrypoints": [
     "static/css/main.09337ff1.css",
-    "static/js/main.08669703.js"
+    "static/js/main.cb97cb60.js"
   ]
 }
